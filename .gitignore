@@ -1,7 +1,7 @@
-.idea/
+/.idea/
 !**/src/main/**/.idea/
 out/
-NetologyQA/NetologyQA.iml
+/NetologyQA/NetologyQA.iml
 
 
 ### IntelliJ IDEA ###
