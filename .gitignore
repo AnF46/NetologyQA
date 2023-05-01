@@ -1,6 +1,6 @@
-.idea/
+*.idea
 out/
-NetologyQA/NetologyQA.iml
+*NetologyQA.iml
 
 ### IntelliJ IDEA ###
 out/
